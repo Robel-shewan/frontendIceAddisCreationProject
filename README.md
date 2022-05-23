@@ -7,20 +7,6 @@
 
   <h3 align="center">Easy Consulting</h3>
 
-  <p align="center">
-    A Technonogly agency fullstack website build in react, mui , bootstrap and nodejs 
-    <br />
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react"><strong>Explore the code here »</strong></a>
-    <br />
-    <a href="https://github.com/Ujjalzaman/easy-consult-server-express-mongo"><strong>Backend code here »</strong></a>
-    <br />
-    <a href="https://wonderful-kowalevski-8c905c.netlify.app/">View Demo</a>
-    ·
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Ujjalzaman/Easy-Consulting-react/issues">Request Feature</a>
-  </p>
-</div>
 
 
 ## Tech Stack
@@ -41,13 +27,7 @@
 - [Node.js](#)
 - [More...](#)
 
-### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/Ujjalzaman/Easy-Consulting-react
    ```
 2. Install NPM packages
    ```sh
@@ -65,21 +45,7 @@ _Below is an example of how you can instruct your audience on installing and set
    or
    ```sh
    yarn start
-   ```
- <p align="left">For this project you have to create firebase console for authentication , mongodb for database and stripe for payment gateway.</p>
- <p>After then put all the credential env file respectly for backend keep them in root folder</p>
- <p>create a jsx file in root and add here firbase config info</p>
- <p>eventully if you having any issues startin this project fill free to contact me. love to help you.</p>
- 
- 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
+   
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
@@ -107,8 +73,4 @@ What you get here:
 * Deffrent for Dasboard(Admin and User)
 * in dashboard Admin has all kinds of access(CRUD operations, add admin, manage orders and many more)
 
-## Contact
 
-ujjal zaman - [Linkdeind](www.linkedin.com/in/ujjal-zaman)
-
-Project Link: [https://github.com/Ujjalzaman/Easy-Consulting-react](https://github.com/Ujjalzaman/Easy-Consulting-react)
